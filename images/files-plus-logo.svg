@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178 80" width="178" height="80" role="img" aria-label="FilesPlus logo">
+  <g>
+    <polygon points="60,80 40,80 0,40 40,0 60,0 20,40" fill="#4caf50" />
+    <g transform="translate(54,0)">
+      <rect x="0" y="30" width="70" height="20" fill="#4caf50" />
+      <rect x="25" y="5" width="20" height="70" fill="#4caf50" />
+    </g>
+    <polygon points="138,80 178,40 138,0 118,0 158,40 118,80" fill="#4caf50" />
+  </g>
+</svg>
